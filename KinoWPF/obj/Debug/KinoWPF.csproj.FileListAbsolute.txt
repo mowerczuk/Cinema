@@ -1,0 +1,78 @@
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\KinoWPF.csprojResolveAssemblyReference.cache
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\AddMovieWindow.g.cs
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\HallWindow.g.cs
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\ShowsWindow.g.cs
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\TicketWindow.g.cs
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\App.g.cs
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\App.baml
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\AddMovieWindow.baml
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\HallWindow.baml
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\ShowsWindow.baml
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\TicketWindow.baml
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\KinoWPF.csproj.GenerateResource.Cache
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\bin\Debug\KinoWPF.exe.config
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\bin\Debug\KinoWPF.exe
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\bin\Debug\KinoWPF.pdb
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\KinoWPF_MarkupCompile.cache
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\KinoWPF_MarkupCompile.lref
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\KinoWPF.g.resources
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\KinoWPF.Properties.Resources.resources
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\KinoWPF.exe
+D:\Pobrane\Kino-Beta\Kino v1.0\WpfApplication1\obj\Debug\KinoWPF.pdb
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\bin\Debug\KinoWPF.exe.config
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\KinoWPF.exe
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\KinoWPF.pdb
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\bin\Debug\KinoWPF.exe
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\bin\Debug\KinoWPF.pdb
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\KinoWPF.csprojResolveAssemblyReference.cache
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\AddMovieWindow.g.cs
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\HallWindow.g.cs
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\MainWindow.g.cs
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\ShowsWindow.g.cs
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\TicketWindow.g.cs
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\App.g.cs
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\KinoWPF_MarkupCompile.cache
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\KinoWPF_MarkupCompile.lref
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\App.baml
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\AddMovieWindow.baml
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\HallWindow.baml
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\MainWindow.baml
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\ShowsWindow.baml
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\TicketWindow.baml
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\KinoWPF.g.resources
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\KinoWPF.Properties.Resources.resources
+D:\Pobrane\Kino-Beta\Kino v1.0\KinoWPF\obj\Debug\KinoWPF.csproj.GenerateResource.Cache
+D:\Pobrane\Kino-Beta\Kino v1.1\KinoWPF\bin\Debug\KinoWPF.exe.config
+D:\Pobrane\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF.exe
+D:\Pobrane\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF.pdb
+F:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\bin\Debug\KinoWPF.exe.config
+F:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF.exe
+F:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF.pdb
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\bin\Debug\KinoWPF.exe.config
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\bin\Debug\KinoWPF.exe
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\bin\Debug\KinoWPF.pdb
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF.csprojResolveAssemblyReference.cache
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\AddMovieWindow.g.cs
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\HallWindow.g.cs
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\MainWindow.g.cs
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\ShowsWindow.g.cs
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\TicketWindow.g.cs
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\App.g.cs
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF_MarkupCompile.cache
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF_MarkupCompile.lref
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\App.baml
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\AddMovieWindow.baml
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\HallWindow.baml
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\MainWindow.baml
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\ShowsWindow.baml
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\TicketWindow.baml
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF.g.resources
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF.Properties.Resources.resources
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF.csproj.GenerateResource.Cache
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF.exe
+H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF.pdb
