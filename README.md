@@ -1,5 +1,5 @@
 # Cinema
 
-Application helping cinema staff at work.
+Application for cinema management.
 
 Made by: Kamil Kuryś, Maciej Owerczuk, Karol Gołębiewski
