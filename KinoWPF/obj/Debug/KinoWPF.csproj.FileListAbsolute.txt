@@ -76,3 +76,6 @@ H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoW
 H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF.csproj.GenerateResource.Cache
 H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF.exe
 H:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF.pdb
+D:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\bin\Debug\KinoWPF.exe.config
+D:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF.exe
+D:\Programowanie\C#\WPF\Projekt Kino\Kino-Beta\Kino v1.1\KinoWPF\obj\Debug\KinoWPF.pdb
